@@ -1,3 +1,5 @@
+🌐 Live App  → https://web-production-69d71.up.railway.app
+📁 GitHub    → github.com/Tanwi20024/Sentiment_Analysis_one
 
 # SentimentAI — Emotion Analyzer
 
